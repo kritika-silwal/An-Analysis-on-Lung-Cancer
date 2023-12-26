@@ -1,7 +1,7 @@
 # An-Analysis-on-Lung-Cancer
 
 
-ntroduction
+Introduction
 Lung cancer is a significant public health concern, and understanding its various facets is crucial for both researchers and the general public. This project aims to contribute to the collective knowledge on lung cancer by conducting a detailed analysis of relevant data.
 
 Dataset
