@@ -1,4 +1,5 @@
 Lung Cancer Analysis
+
 Overview
 
 Welcome to the "An Analysis on Lung Cancer" repository. This project focuses on conducting a comprehensive analysis of lung cancer, exploring various aspects such as demographic trends, risk factors, and treatment efficacy. The analysis is based on a specific dataset, and the findings aim to contribute valuable insights to the understanding of lung cancer.
@@ -6,11 +7,18 @@ Welcome to the "An Analysis on Lung Cancer" repository. This project focuses on 
 Table of Contents
 
 Introduction
+
 Dataset
+
 Analysis
+
 Findings
+
 Contributing
+
 License
+
+
 Introduction
 
 Lung cancer is a critical public health issue, and this project aims to contribute to the knowledge surrounding the disease. By analyzing relevant data, we seek to uncover patterns, trends, and key insights that can enhance our understanding of lung cancer and inform future research and interventions.
